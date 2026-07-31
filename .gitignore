@@ -1,0 +1,89 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor temporary files
+*.swp
+*.swo
+*.swn
+*~
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Environment files / secrets
+.env
+.env.*
+*.secret
+secrets/
+
+# SSH private keys
+.ssh/*
+!.ssh/config
+!.ssh/known_hosts
+
+# GPG private data
+.gnupg/
+
+# Shell history and generated files
+.bash_history
+.zsh_history
+.fish_history
+.python_history
+.node_repl_history
+.lesshst
+
+.zcompdump*
+.zsh_sessions/
+
+# Cache and runtime data
+.cache/
+.local/cache/
+.local/state/
+
+*.cache
+
+# Neovim
+.local/share/nvim/
+.local/state/nvim/
+.local/cache/nvim/
+
+# Plugins installed by managers
+.config/nvim/plugin/
+.config/nvim/pack/
+
+# Tmux
+.tmux/plugins/
+
+# Package managers / languages
+node_modules/
+.npm/
+.pnpm-store/
+
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+
+.gradle/
+.m2/
+
+target/
+build/
+dist/
+
+# IDEs
+.idea/
+.vscode/
+
+# Git local data
+.git/
+.gitconfig.local
+
+# Temporary files
+tmp/
+temp/
+*.bak
+*.old
