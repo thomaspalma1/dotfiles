@@ -21,8 +21,5 @@ applications I use day to day, and download the Vim and OpenTabletDriver configu
 
 ## Credits
 
-The dotfiles logo was created by [Joel Glovier](https://github.com/jglovier) and comes from
-[jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo).
-See [`docs/README.md`](docs/README.md) for details.
-
-Icons by [devicon](https://github.com/devicons/devicon).
+Joel Glovier created the dotfiles logo and comes from [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo).
+See [docs/README.md](docs/README.md) for details.
